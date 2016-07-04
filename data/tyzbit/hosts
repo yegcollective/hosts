@@ -4,7 +4,7 @@
 127.0.0.1 compatexchange.cloudapp.net
 127.0.0.1 corp.sts.microsoft.com
 127.0.0.1 corpext.msitadfs.glbdns2.microsoft.com
-127.0.0.1 cs1.wpc.v0cdn.net
+# 127.0.0.1 cs1.wpc.v0cdn.net # breaks api.nuget.org
 127.0.0.1 diagnostics.support.microsoft.com
 127.0.0.1 feedback.search.microsoft.com
 127.0.0.1 feedback.windows.com
